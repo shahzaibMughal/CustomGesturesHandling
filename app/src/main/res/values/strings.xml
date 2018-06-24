@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomGesturesHandling</string>
+    <string name="draw_a_gesture">Draw a gesture</string>
+</resources>
